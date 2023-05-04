@@ -1,0 +1,191 @@
+[
+    {
+        "id": 1,
+        "devicename": "Galaxy S21",
+        "manufacturer": "Samsung",
+        "price": "\u00a3590",
+        "release_date": "2021-01-29",
+        "device_summary": "The Samsung Galaxy S21 is a sleek and powerful smartphone that offers cutting-edge features and impressive performance. This device is designed to provide an exceptional user experience, with advanced cameras, high-quality display, and a long-lasting battery",
+        "device_description": "The Galaxy S21 is an exceptional smartphone that has been highly praised for its impressive performance and sleek design. It comes equipped with a powerful Exynos 2100 or Snapdragon 888 processor, making it incredibly fast and responsive. The device's 6.2-inch Dynamic AMOLED 2X display delivers stunning visuals with vibrant colors and excellent contrast. It also has a versatile camera system that includes a 12MP primary sensor, a 12MP ultra-wide lens, and a 64MP telephoto lens, allowing users to capture stunning photos and videos. Additionally, the S21's 5G capabilities and long-lasting battery life make it a perfect choice for people who demand high-speed connectivity and performance on the go. Overall, the Galaxy S21 is an excellent smartphone that offers a perfect blend of performance, design, and features, making it a top choice for tech-savvy individuals.",
+        "os": "Android version 11",
+        "image_href": "img\/smartphone\/galaxy-s21.jpg",
+        "thumbs_href": "https:\/\/example.com\/images\/galaxy_s21_thumbs.jpg",
+        "item_href": "https:\/\/example.com\/products\/galaxy_s21",
+        "specs": {
+            "display": "6.2-inch Dynamic AMOLED 2X",
+            "camera": "Triple camera setup - 64MP main, 12MP ultra-wide, 12MP telephoto",
+            "storage": "128GB or 256GB internal storage with 8GB RAM",
+            "battery": "4000mAh with Fast charging 25W and USB Power Delivery 3.0",
+            "memory": "No SD card slot",
+            "cpu_cores": "Octa-core (1x2.9 GHz Cortex-X1 & 3x2.80 GHz Cortex-A78 & 4x2.2 GHz Cortex-A55)",
+            "weight": "171g",
+            "dimensions": "151.7 x 71.2 x 7.9 mm",
+            "colors_available": "Phantom Gray, Phantom White, Phantom Violet, Phantom Pink"
+        },
+        "consumer_info": {
+            "retailers": [
+                {
+                    "name": "Amazon",
+                    "link": "https:\/\/www.amazon.com\/Samsung-Galaxy-S21-5G-SM-G991U\/dp\/B08NWBYLY9\/"
+                },
+                {
+                    "name": "Best Buy",
+                    "link": "https:\/\/www.bestbuy.com\/site\/samsung-galaxy-s21-5g-128gb-unlocked-phantom-violet\/6440006.p?skuId=6440006"
+                },
+                {
+                    "name": "Samsung",
+                    "link": "https:\/\/www.samsung.com\/us\/smartphones\/galaxy-s21-5g\/"
+                }
+            ],
+            "official_reviews": [
+                {
+                    "name": "CNET",
+                    "link": "https:\/\/www.cnet.com\/reviews\/samsung-galaxy-s21-review\/"
+                },
+                {
+                    "name": "TechRadar",
+                    "link": "https:\/\/www.techradar.com\/reviews\/samsung-galaxy-s21"
+                },
+                {
+                    "name": "Tom's Guide",
+                    "link": "https:\/\/www.tomsguide.com\/reviews\/samsung-galaxy-s21"
+                }
+            ],
+            "user_reviews": [
+                {
+                    "username": "ras1b",
+                    "review_title": "Really Good!",
+                    "review_text": "Compared the the motorola and iphone, this is the best bang for your buck!",
+                    "rating": 5.2,
+                    "date": "2023-04-18"
+                }
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "devicename": "iPhone 14 Pro",
+        "manufacturer": "Apple",
+        "price": "\u00a31500",
+        "release_date": "2023-09-15",
+        "device_summary": "The iPhone 14 is Apple's latest flagship smartphone, offering a range of advanced features and technologies. This device is designed to provide a superior user experience, with powerful performance, stunning cameras, and long-lasting battery life.",
+        "device_description": "The iPhone 14 Pro is an exceptional smartphone that boasts cutting-edge technology and features. It comes equipped with Apple's A15 Bionic chip, making it incredibly fast and responsive. The device's 6.1-inch Super Retina XDR display delivers stunning visuals with vivid colors and deep blacks. It also has a versatile camera system that includes a 12MP primary sensor, a 12MP ultra-wide lens, and a 12MP telephoto lens, allowing users to capture professional-grade photos and videos. Additionally, the iPhone 14 Pro's 5G capabilities and long-lasting battery life make it a perfect choice for people who demand high-speed connectivity and performance on the go. Other notable features include Face ID, water and dust resistance, and support for Apple's MagSafe wireless charging system. Overall, the iPhone 14 Pro is an outstanding smartphone that offers a perfect blend of performance, design, and features, making it a top choice for Apple fans and tech enthusiasts alike.",
+        "os": "iOS version 16",
+        "image_href": "img\/smartphone\/iphone-14-pro.png",
+        "thumbs_href": "https:\/\/example.com\/images\/iphone_14_pro_thumbs.jpg",
+        "item_href": "https:\/\/example.com\/products\/iphone_14_pro",
+        "specs": {
+            "display": "6.7-inch Super Retina XDR display",
+            "camera": "Triple 12MP camera system: Ultra Wide, Wide, and Telephoto cameras",
+            "storage": "128GB, 256GB, or 512GB internal storage with 6GB RAM",
+            "battery": "4000mAh with Fast charging 30W, USB Power Delivery 3.0, and Qi wireless charging",
+            "memory": "No SD card slot",
+            "cpu_cores": "A16 Bionic chip with 6-core CPU, 5-core GPU",
+            "weight": "204g",
+            "dimensions": "160.8 x 78.1 x 7.65 mm",
+            "colors_available": "Graphite, Gold, Silver"
+        },
+        "consumer_info": {
+            "retailers": [
+                {
+                    "name": "Apple Store",
+                    "link": "https:\/\/www.apple.com\/shop\/buy-iphone\/iphone-14-pro"
+                },
+                {
+                    "name": "Best Buy",
+                    "link": "https:\/\/www.bestbuy.com\/site\/searchpage.jsp?st=iphone+14+pro&_dyncharset=UTF-8&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys"
+                },
+                {
+                    "name": "Verizon",
+                    "link": "https:\/\/www.verizon.com\/smartphones\/iphone-14-pro\/"
+                }
+            ],
+            "official_reviews": [
+                {
+                    "name": "CNET",
+                    "link": "https:\/\/www.cnet.com\/reviews\/apple-iphone-14-pro-review\/"
+                },
+                {
+                    "name": "TechRadar",
+                    "link": "https:\/\/www.techradar.com\/reviews\/apple-iphone-14-pro"
+                },
+                {
+                    "name": "Tom's Guide",
+                    "link": "https:\/\/www.tomsguide.com\/reviews\/iphone-14-pro"
+                }
+            ],
+            "user_reviews": [
+                {
+                    "username": "ras1b",
+                    "review_title": "What was I thinking..",
+                    "review_text": "Iphones are overpriced!",
+                    "rating": 0,
+                    "date": "2023-04-17"
+                }
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "devicename": "Motorola G9 Play",
+        "manufacturer": "Motorola",
+        "price": "\u00a3150",
+        "release_date": "2020-08-24",
+        "device_summary": "The Motorola G9 Play is a budget-friendly smartphone that offers a range of features for its price. This device is designed to provide a decent user experience, with a large display, a long-lasting battery, and a triple-camera system.",
+        "device_description": "The Motorola G9 Play is a budget-friendly smartphone that offers decent features at an affordable price. It comes with a 6.5-inch HD+ IPS LCD display that delivers crisp and clear visuals, although not as vibrant as high-end displays. The device is powered by a Snapdragon 662 chipset and 4GB of RAM, which provides adequate performance for day-to-day tasks such as browsing the web, sending emails, and using social media. The G9 Play also has a triple-camera setup that includes a 48MP primary sensor, a 2MP depth sensor, and a 2MP macro lens, allowing users to capture decent photos and videos. Additionally, the phone has a large 5000mAh battery, which provides excellent battery life that can last a full day with moderate usage. Other notable features include a rear-mounted fingerprint scanner, water-repellent design, and support for 15W fast charging. Overall, the Motorola G9 Play is a reliable smartphone for those who want a decent phone at an affordable price without compromising too much on performance and features.",
+        "os": "Android version 10",
+        "image_href": "img\/smartphone\/moto-g9.png",
+        "thumbs_href": "https:\/\/example.com\/images\/motorola_g9_play_thumbs.jpg",
+        "item_href": "https:\/\/example.com\/products\/motorola_g9_play",
+        "specs": {
+            "display": "6.5-inch IPS LCD",
+            "camera": "Triple camera setup - 48MP main, 2MP macro, 2MP depth",
+            "storage": "64GB internal storage with 4GB RAM, expandable up to 512GB via microSD",
+            "battery": "5000mAh with 10W fast charging",
+            "memory": "microSDXC (uses shared SIM slot)",
+            "cpu_cores": "Octa-core (4x2.0 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver)",
+            "weight": "200g",
+            "dimensions": "165.2 x 75.7 x 9.2 mm",
+            "colors_available": "Forest Green, Sapphire Blue, Spring Pink"
+        },
+        "consumer_info": {
+            "retailers": [
+                {
+                    "name": "Amazon",
+                    "link": "https:\/\/www.amazon.com\/Motorola-Unlocked-Smartphone-T-Mobile-Verizon\/dp\/B08H9PTLX9\/"
+                },
+                {
+                    "name": "Best Buy",
+                    "link": "https:\/\/www.bestbuy.com\/site\/motorola-moto-g9-play-2020-64gb-unlocked-forest-green\/6425692.p?skuId=6425692"
+                },
+                {
+                    "name": "Motorola",
+                    "link": "https:\/\/www.motorola.com\/us\/smartphones-moto-g-power-gen-2\/p"
+                }
+            ],
+            "official_reviews": [
+                {
+                    "name": "TechRadar",
+                    "link": "https:\/\/www.techradar.com\/reviews\/motorola-moto-g9-play-review"
+                },
+                {
+                    "name": "CNET",
+                    "link": "https:\/\/www.cnet.com\/reviews\/motorola-moto-g9-play-review\/"
+                },
+                {
+                    "name": "GSM Arena",
+                    "link": "https:\/\/www.gsmarena.com\/motorola_moto_g9_play-review-2169.php"
+                }
+            ],
+            "user_reviews": [
+                {
+                    "username": "ras1b",
+                    "review_title": "motorola review",
+                    "review_text": "Really good!",
+                    "rating": 10,
+                    "date": "2023-04-17"
+                }
+            ]
+        }
+    }
+]

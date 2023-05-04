@@ -1,0 +1,22 @@
+<style>
+
+img {
+width: 320px;
+height: 240px;
+}
+
+.welcome {
+text-align: center;
+height: 200px;
+margin: 25 auto;
+margin-left: 300px;
+margin-right: -450px;
+}
+.samsung
+{position: absolute;  margin: -20px 500px 0px;}	
+.apple
+{position: absolute;  margin: 430px 500px 0px;}	
+.motorola
+{position: absolute;  margin: 880px 500px 0px;}	
+.footer {position: absolute;  margin: 1700px -580px;}
+</style>

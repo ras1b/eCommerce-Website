@@ -1,0 +1,24 @@
+<?php
+// ----INCLUDE APIS------------------------------------
+// Include our Website API
+include ("api/api.inc.php");
+
+// ----PAGE GENERATION LOGIC---------------------------
+function createPage()
+{
+    $tcontent = <<<PAGE
+        
+PAGE;
+    return $tcontent;
+}
+
+// ----BUSINESS LOGIC---------------------------------
+$tpagecontent = createPage();
+
+// ----BUILD OUR HTML PAGE----------------------------
+// Create an instance of our Page class
+$tindexpage = new MasterPage("Home Page");
+$tindexpage->setDynamic2($tpagecontent);
+$tindexpage->renderPage();
+
+?>

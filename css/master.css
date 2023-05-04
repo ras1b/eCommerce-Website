@@ -1,0 +1,23 @@
+<style>
+.signup{ margin-left: -20px;}
+.dropdown-submenu {
+  position: relative;
+}
+
+.dropdown-submenu .dropdown-menu {
+  left: 100%;
+  position: absolute;
+  top: 0;
+}
+
+/* Fix for submenu position */
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: 11px;
+}
+
+.footer { position: absolute;  margin-top: 1600px; margin-bottom: 0px; margin-left: -375px; margin-right: 0px;}
+</style>

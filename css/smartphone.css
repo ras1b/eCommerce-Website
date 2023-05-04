@@ -1,0 +1,53 @@
+<style>
+.os {
+  display: inline-block;
+  vertical-align: middle;
+  position: absolute;
+  margin-left: 730px;
+  margin-top: 540px;
+}
+.buynow {
+  display: inline-block;
+  vertical-align: middle;
+  position: absolute;
+  margin-left: 590px;
+  margin-top: 100px;
+}
+.review {
+  display: inline-block;
+  vertical-align: middle;
+  position: absolute;
+  margin-left: 590px;
+  margin-top: 730px;
+}
+.btn-secondary {
+  background-color: #1ac1e6;
+  border-color: #1ac1e6;
+  color: #fff;
+}
+
+.btn-secondary:hover {
+  background-color: #1ac1e6;
+  border-color: #1ac1e6;
+  color: #fff;
+}
+
+.btn-secondary:focus {
+  box-shadow: 0 0 0 0.2rem rgba(108, 117, 125, 0.5);
+  outline: none;
+}
+.favorite {
+  background-color: transparent;
+  position: absolute;
+  color: #FFD700;
+  font-size: 20px;
+  margin-left: 590px;
+  margin-top: -80px;
+  cursor: pointer;
+  border: 2px solid #FFD700;
+  padding: 5px 10px;
+}
+
+
+/*.footer { position: absolute;  margin: 1550px -570px 0px;}*/
+</style>
